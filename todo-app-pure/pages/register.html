@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>Register Page</title>
+    <meta name="description" content="Signin">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="../css/register.css">
+    <meta name="viewport" content="width = device-width, initial-scale=1.0" />
+</head>
+
+<body>
+    <div class="container">
+        <form action="./index.html">
+            <h1>Register</h1>
+            <div class="form-control">
+                <input type="text" id="firstname" placeholder="First name">
+                <small></small>
+                <span></span>
+            </div>
+
+            <div class="form-control">
+                <input type="text" id="lastname" placeholder="Last name">
+                <small></small>
+                <span></span>
+            </div>
+
+            <div class="form-control">
+                <input type="text" id="username" placeholder="User name">
+                <small></small>
+                <span></span>
+            </div>
+
+            <div class="form-control">
+                <input type="password" id="password" placeholder="Password">
+                <small></small>
+                <span></span>
+            </div>
+
+            <div class="form-control">
+                <input type="password" id="confirm-password" placeholder="Confirm Password">
+                <small></small>
+                <span></span>
+            </div>
+
+            <button type="submit" class="btn-submit">Register</button>
+
+        </form>
+        <div class="register-link">
+            <a href="./login.html">Click here to Login</a>
+        </div>
+    </div>
+    <script src="../models/User.js"></script>
+    <script src="../scripts/storage.js"></script>
+    <script src="../scripts/register.js"></script>
+</body>
+
+</html>
