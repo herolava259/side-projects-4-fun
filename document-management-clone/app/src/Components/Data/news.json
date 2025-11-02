@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Tomorrow Healthy Check",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. In veritatis, minus voluptates doloribus voluptatibus quisquam reiciendis doloremque! Quia reiciendis distinctio fugit, quo minima asperiores beatae accusamus, veniam eveniet iusto minus.",
+        "date": "05/May/2001",
+        "img": "markgroup2"
+    },
+    {
+        "title": "Air-conditioning is broken",
+        "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitrinvidunt ut labore et dolore aaliquya erat, sed diam voluptuaaa vero eos et accusam et justo duo",
+        "date": "02/Jan/2021",
+        "img": "markgroup_1"
+    },
+    {
+        "title": "Keep Running",
+        "content": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ratione cum eveniet nihil voluptatibus iusto sit aperiam dolore perferendis debitis sunt iure repudiandae, architecto consequatur expedita amet, optio, deleniti inventore fugit.",
+        "date": "05/May/2003",
+        "img": "markgroup_2"
+    },
+    {
+        "title": "Temperature above 37.3℃ need to report",
+        "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitrinvidunt ut labore et dolore aaliquya erat, sed diam voluptuaaa vero eos et accusam et justo duo",
+        "date": "05/May/2004",
+        "img": "markgroup_3"
+    },
+    {
+        "title": "Android's underappreciated design revolution",
+        "content": "Google's got something extraordinary going on in its latest Android versions; all you've gotta do is open your eyes to appreciate it.",
+        "date": "07/Jan/2022",
+        "img": "markgroup1"
+    },
+    {
+        "title": "IT Maintenance",
+        "content": "Google's got something extraordinary going on in its latest Android versions; all you've gotta do is open your eyes to appreciate it.",
+        "date": "07/Jan/2022",
+        "img": "markgroup1"
+    }
+]

@@ -1,0 +1,139 @@
+[
+    {
+        "name": "Policy",
+        "file": [
+            {
+                "icon": "word",
+                "title": "Policy 1"
+            },
+            {
+                "icon": "word",
+                "title": "Policy 2"
+            },
+            {
+                "icon": "word",
+                "title": "Policy 3"
+            },
+            {
+                "icon": "word",
+                "title": "Policy 4"
+            },
+            {
+                "icon": "word",
+                "title": "Policy 5"
+            },
+            {
+                "icon": "word",
+                "title": "Policy 6"
+            },
+            {
+                "icon": "word",
+                "title": "Policy 7"
+            },
+            {
+                "icon": "word",
+                "title": "Policy 8"
+            }
+        ]
+    },
+    {
+        "name": "Corporate Template",
+        "file": [
+            {
+                "icon": "word",
+                "title": "Template 1"
+            },
+            {
+                "icon": "word",
+                "title": "Template 2"
+            },
+            {
+                "icon": "word",
+                "title": "Template 3"
+            },
+            {
+                "icon": "word",
+                "title": "Template 4"
+            }
+        ]
+    },
+    {
+        "name": "Slider",
+        "file": [
+            {
+                "icon": "vsdx",
+                "title": "Template 1"
+            },
+            {
+                "icon": "vsdx",
+                "title": "Template 2"
+            },
+            {
+                "icon": "vsdx",
+                "title": "Template 3"
+            },
+            {
+                "icon": "vsdx",
+                "title": "Template 4"
+            }
+        ]
+    },
+    {
+        "name": "SOP",
+        "file": [
+            {
+                "icon": "word",
+                "title": "Demo script"
+            },
+            {
+                "icon": "word",
+                "title": "App introduction"
+            },
+            {
+                "icon": "word",
+                "title": "Index"
+            },
+            {
+                "icon": "word",
+                "title": "Training"
+            },
+            {
+                "icon": "word",
+                "title": "Training"
+            },
+            {
+                "icon": "word",
+                "title": "Training"
+            }
+        ]
+    },
+    {
+        "name": "Report",
+        "file": [
+            {
+                "icon": "powerpoint",
+                "title": "Report 1"
+            },
+            {
+                "icon": "powerpoint",
+                "title": "Report 2"
+            },
+            {
+                "icon": "powerpoint",
+                "title": "Report 2"
+            },
+            {
+                "icon": "powerpoint",
+                "title": "Report 2"
+            },
+            {
+                "icon": "powerpoint",
+                "title": "Report 2"
+            },
+            {
+                "icon": "powerpoint",
+                "title": "Report 3"
+            }
+        ]
+    }
+]

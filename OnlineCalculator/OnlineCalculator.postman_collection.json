@@ -1,0 +1,53 @@
+{
+	"info": {
+		"_postman_id": "ca393e66-cb00-4e90-883a-8065b77e098b",
+		"name": "OnlineCalculator",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "17997218"
+	},
+	"item": [
+		{
+			"name": "History List",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:5001/api/calculator/histories",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "5001",
+					"path": [
+						"api",
+						"calculator",
+						"histories"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "requst calculation",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		}
+	]
+}

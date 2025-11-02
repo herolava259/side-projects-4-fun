@@ -1,0 +1,9 @@
+{
+  "hasPermission": false,
+  "state": 1,
+  "errorCode": 0,
+  "message": "Value cannot be null. (Parameter 'property')",
+  "result": null,
+  "correlatedId": "b9e02985-8a59-40cf-9a4e-da0055c2f59a",
+  "isView": false
+}

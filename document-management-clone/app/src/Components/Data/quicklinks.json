@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Training",
+        "img": "icon"
+    },
+    {
+        "title": "Organization",
+        "img": "icon_1"
+    },
+    {
+        "title": "Task",
+        "img": "icon_2"
+    },
+    {
+        "title": "Global Sales",
+        "img": "icon_3"
+    },
+    {
+        "title": "Birthday",
+        "img": "icon_4"
+    },
+    {
+        "title": "Health",
+        "img": "icon_5"
+    },
+    {
+        "title": "Service Desk",
+        "img": "icon_6"
+    },
+    {
+        "title": "Truck",
+        "img": "icon_7"
+    },
+    {
+        "title": "Idea",
+        "img": "icon_8"
+    }
+]

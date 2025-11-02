@@ -1,0 +1,4 @@
+{
+    "dotnet.defaultSolution": "OnlineCalculator.sln",
+    "liveServer.settings.port": 5501
+}

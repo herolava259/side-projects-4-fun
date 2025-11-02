@@ -1,0 +1,72 @@
+[
+    {
+        "id": "1",
+        "question": "What are NoSQL databases?",
+        "answer": "A NoSQL database provides a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases (like SQL, Oracle, etc.)."
+    },
+    {
+        "id": "2",
+        "question": "What is multi-threading and how is it used?",
+        "answer": "In computer architecture, multithreading is the ability of a central processing unit (CPU) (or a single core in a multi-core processor) to provide multiple threads of execution concurrently, supported by the operating system."
+    },
+    {
+        "id": "3",
+        "question": "Difference between WHERE clause and HAVING clause?",
+        "answer": "WHERE clause can only be applied on a static non-aggregated column we will need to use HAVING for aggregated columns."
+    },
+    {
+        "id": "4",
+        "question": "What REST stands for?",
+        "answer": "REST stands for REpresentational State Transfer. REST is web standards based architecture and uses HTTP Protocol for data communication. It revolves around resource where every component is a resource and a resource is accessed by a common interface using HTTP standard methods. REST was first introduced by Roy Fielding in 2000."
+    },
+    {
+        "id": "5",
+        "question": "What are the DRY and DIE principles?",
+        "answer": "In software engineering, Don't Repeat Yourself (DRY) or Duplication is Evil (DIE) is a principle of software development."
+    },
+    {
+        "id": "6",
+        "question": "Explain what the API Gateway pattern means?",
+        "answer": "An API Gateway is a server that is the only possible entry point to the system. It is similar to the Facade pattern from object-oriented design. API Gateway encapsulates the architecture of the entire system and provides an API that is already adapted for each client. This API can also have other functions such as authentication, caching, monitoring, and load balancing."
+    },
+    {
+        "id": "7",
+        "question": "What are the benefits of using B-trees index?",
+        "answer": "Such indexes save a lot of time, because look-ups, deletions, and insertions can all be done in logarithmic time. Also, the data that is stored inside B-trees can be easily sorted."
+    },
+    {
+        "id": "8",
+        "question": "What is a RESTful API?",
+        "answer": "A RESTful API is an architectural style for an application program interface that utilizes HTTP requests to access and process data. The API can be used for getting, putting, posting, or deleting various data types."
+    },
+    {
+        "id": "9",
+        "question": "What is Object Oriented Programming?",
+        "answer": "Object-Oriented Programming(OOPs) is a type of programming that is based on objects rather than just functions and procedures. Individual objects are grouped into classes. OOPs implements real-world entities like inheritance, polymorphism, hiding, etc into programming. It also allows binding data and code together."
+    },
+    {
+        "id": "10",
+        "question": "What is an exception?",
+        "answer": "An exception is a kind of notification that interrupts the normal execution of a program. Exceptions provide a pattern to the error and transfer the error to the exception handler to resolve it. The state of the program is saved as soon as an exception is raised."
+    },
+    {
+        "id": "11",
+        "question": "What is inheritance?",
+        "answer": "Inheritance is a feature of OOPs which allows classes inherit common properties from other classes. For example, if there is a class such as ‘vehicle’, other classes like ‘car’, ‘bike’, etc can inherit common properties from the vehicle class. This property helps you get rid of redundant code thereby reducing the overall size of the code."
+    },
+    {
+        "id": "12",
+        "question": "What is polymorphism?",
+        "answer": "Polymorphism refers to the ability to exist in multiple forms. Multiple definitions can be given to a single interface. For example, if you have a class named Vehicle, it can have a method named speed but you cannot define it because different vehicles have different speed. This method will be defined in the subclasses with different definitions for different vehicles."
+    },
+    {
+        "id": "13",
+        "question": "What is encapsulation",
+        "answer": "Encapsulation refers to binding the data and the code that works on that together in a single unit. For example, a class. Encapsulation also allows data-hiding as the data specified in one class is hidden from other classes."
+    },
+    {
+        "id": "14",
+        "question": "What is an abstract class?",
+        "answer": "An abstract class is a class that consists of abstract methods. These methods are basically declared but not defined. If these methods are to be used in some subclass, they need to be exclusively defined in the subclass."
+    }
+]
